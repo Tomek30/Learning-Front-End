@@ -1,0 +1,59 @@
+/*------classes-------*/
+.title{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.divEx
+{
+    height: 160px;
+}
+/*------classes-------*/
+
+
+
+/*------runtime classes-------*/
+.toggleCSS
+{
+    color: red;
+    font-size: x-large;
+}
+/*------runtime classes-------*/
+
+
+
+/*-----------IDs---------*/
+#squareImg1, #squareImg2
+{
+    top:0px;
+    left:0px;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    display: inline-block;
+    background-color: brown;
+}
+
+#squareImg3
+{
+    top: 22px;
+    left: 22px;
+    height: 22px;
+    width: 22px;
+    position: relative;
+    background: radial-gradient(circle , red, blue);
+    border-radius: 51%;
+}
+
+#divEx3
+{
+    border: black solid 2px ;
+    width: 888px;
+}
+
+#divEx4
+{
+    height: 40px;
+}
+/*-----------IDs---------*/
+
